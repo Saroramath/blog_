@@ -13,9 +13,7 @@ const IndexPage = ({ data }) => (
       <div className={styles.hero}>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Shivam Arora, a Senior UX Developer with zero years of industry
-          experience, specializing in developing pancakes with the best UX
-          users can get.
+          I&apos;m Shivam Arora, I enjoy leaning new stuff everyday.
         </p>
       </div>
       {data.allMarkdownRemark.edges.map(post => (
