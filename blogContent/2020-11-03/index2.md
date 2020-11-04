@@ -1,6 +1,6 @@
 ---
 date: "2020-11-03"
-title: "How to deply the Gatsby site to Github pages"
+title: "How to deploy the Gatsby site to Github pages"
 ---
 
 Gatsby new project <url>
