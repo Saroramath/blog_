@@ -38,6 +38,8 @@ git commit -m "first commit"
 
 
 git remote add origin <url>
+may be   git push --set-upstream origin master before push  
+   
 git push
 git run deploy
 
